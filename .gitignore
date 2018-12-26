@@ -5,7 +5,7 @@
 !.gitignore
 !Package Control.sublime-settings
 !Preferences.sublime-settings
-!SublimeTmpl/*
+!SublimeTmpl
 !SublimeTmpl.sublime-settings
 
 # Package Control.cache/
