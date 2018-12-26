@@ -1,6 +1,6 @@
 # Ignore everything...
 # except preferences and package list
-*
+/*
 !Anaconda.sublime-settings
 !.gitignore
 !Package Control.sublime-settings
