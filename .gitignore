@@ -1,15 +1,14 @@
 # Ignore everything...
 # except preferences and package list
-# *
-# !Anaconda.sublime-settings
-# !.gitignore
-# !Package Control.sublime-settings
-# !Preferences.sublime-settings
-# !SublimeTmpl/try.tmpl
-# !SublimeTmpl.sublime-settings
+*
+!Anaconda.sublime-settings
+!.gitignore
+!Package Control.sublime-settings
+!Preferences.sublime-settings
+!SublimeTmpl/try.tmpl
+!SublimeTmpl.sublime-settings
 
-Package Control.cache/
-Package Control.last-run
-Package Control.merged-ca-bundle
-Package Control.user-ca-bundle
-*.md
+# Package Control.cache/
+# Package Control.last-run
+# Package Control.merged-ca-bundle
+# Package Control.user-ca-bundle
