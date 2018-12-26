@@ -1,11 +1,12 @@
 # Ignore everything...
 # except preferences and package list
 # *
+# !
 # !.gitignore
 # !Package Control.sublime-settings
 # !Preferences.sublime-settings
-# !SublimeTmpl.sublime-settings
 # !SublimeTmpl/try.tmpl
+# !SublimeTmpl.sublime-settings
 
 Package Control.cache/
 Package Control.last-run
